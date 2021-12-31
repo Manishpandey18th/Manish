@@ -1,0 +1,11 @@
+{
+      int p,q,area,perimeter;
+      p=4;
+      q=6;
+  
+     area=p*q;
+     perimeter=2*(p+q);
+     count<<"\n area="<<area;
+     count<<"\n perimeter="<<perimeter;
+
+}
